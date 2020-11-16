@@ -1,0 +1,5 @@
+StepDefinitions/GetListOfArticlesStepDef.class
+StepDefinitions/Constants.class
+StepDefinitions/GetSingleArticleStepDef.class
+StepDefinitions/NegativeScenarioStepDef.class
+TestRunner/TestRunner.class
